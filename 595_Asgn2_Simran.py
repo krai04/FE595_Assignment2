@@ -50,3 +50,4 @@ while i < 50:
 df = pd.DataFrame.from_dict(data, orient = 'index', columns = ["Name", "Purpose"])
 # export the dataframe to csv
 df.to_csv('Simran_results_Assignment2.csv')
+##### Review : Good Code 5/5  ( Reviewed by Kshitij Rai )
